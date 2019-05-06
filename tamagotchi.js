@@ -35,3 +35,7 @@ console.log(newTamagotchis1.cry());
 console.log(newTamagotchis2.cry());
 console.log(newTamagotchis3.puke());
 console.log(newTamagotchis4.yawn());
+console.log(player.feedTamagotchi(newTamagotchis1));
+console.log(player.feedTamagotchi(newTamagotchis2));
+console.log(player.feedTamagotchi(newTamagotchis3));
+console.log(player.feedTamagotchi(newTamagotchis4));
